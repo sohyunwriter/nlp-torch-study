@@ -8,4 +8,4 @@
     
      
 ### 👀 study contents    
-- 1. Convolutional Neural Networks for Sentence Classification     
+- Convolutional Neural Networks for Sentence Classification     
