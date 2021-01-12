@@ -1,5 +1,9 @@
 # CNN을 활용한 sentence classification    
 
+## References    
+- [emnlp2014](http://emnlp2014.org/papers/pdf/EMNLP2014181.pdf)
+
+
 ## Summary     
 문장 수준의 분류 문제에 word vector와 cnn을 도입한 논문    
 (성과) NLP에서 word2vec으로 pre-training한 data를 사용해 CNN을 적용하면 간단한 네트워크임에도 문장 분류에서 높은 성능을 낼 수 있다.    
